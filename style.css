@@ -42,7 +42,6 @@ li{
     width: 800px;
 }
 .banner{
-    border: 2px solid red;
     display: flex;
     align-items: center;
     width: 100%;
